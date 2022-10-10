@@ -2,7 +2,7 @@
 
 Using Appium and WebdriverIO to build tests for iOS apps. Created this test by following a tutorial from Dilpreet Johal in the Udemy course: Mobile Automation with Appium 2.0.
 
-Before we begin, you will need to have the following installed: Node.js, Java JDK, Appium Inspector, Xcode. This is on-going project and continually updated.
+Before we begin, you will need to have the following installed: Node.js, Java JDK, Appium Inspector, Xcode. This is an on-going project and continually updated.
 
 XCTest Documentation: https://developer.apple.com/documentation/xctest
 
